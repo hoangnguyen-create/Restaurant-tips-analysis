@@ -38,7 +38,7 @@ Insight: Customers tend to leave higher tips on weekends compared to weekdays. B
 
 Insight: Dinner customers consistently leave higher tips than lunch customers. This is supported by higher average and median tip values, as well as a wider distribution of tip amounts during dinner time.
 
-#### Conclusion: 
+## Conclusion: 
 Overall, the analysis shows that time-related factors such as weekends and dinner service have a stronger relationship with higher tip values than customer characteristics such as smoking status or gender. These insights may help restaurants better allocate staff and optimize service during peak tipping periods.
 
 
