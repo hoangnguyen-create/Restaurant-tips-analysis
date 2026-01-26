@@ -8,7 +8,8 @@ Data source: https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv
 It includes details about the tips given to restaurant staff, such as the total bill, tip amount, gender of the person paying, smoking status, day of the week, time of day, and party size.
 
 ### The main goal of the project is to identify relationship between variables and the tip givens to generate valuable insight beneficial to the restaurant
-Link to whole project via Google Collab: https://colab.research.google.com/drive/1T7gahFWhTsPRMcY8n0sP1AI-MDGGuujz?usp=sharing
+Link to whole project via Google Collab: 
+https://colab.research.google.com/drive/1T7gahFWhTsPRMcY8n0sP1AI-MDGGuujz?usp=sharing
 
 ## Result: 
 
